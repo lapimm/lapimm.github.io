@@ -7,46 +7,81 @@ navorder: 2
 ---
 {% include JB/setup %}
 
-<div class="bigspacer"></div>
-{% assign current_team = site.categories.team | where: "alum","false"%}
-{% assign memberindex = 0 %}
-{% for member in current_team reversed %}
+<style>
+	.media-object.member-photo {
+	  width: 100%; /* Set a specific width */
+	  height: auto; /* Maintain aspect ratio */
+	  max-height: 150px; /* Set a maximum height if needed */
+	  border-radius: 50%; /* Optional: Add border-radius for rounded images */
+	  object-fit: cover; /* Optional: Maintain aspect ratio and cover the entire container */
+	}
+  </style>
+  
+  <div class="bigspacer"></div>
+  {% assign current_team = site.categories.team | where: "alum", "false" %}
+  {% assign memberindex = 0 %}
+  {% for member in current_team reversed %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 3 %}
 	{% if colindex == 1 %} <!-- opening of a new row -->
 	<div class="row">
 	{% endif %}
 	<div class="col-md-4 memberbox">
-		<div class="media">
-				<a class="pull-left" href="{{ member.url }}">
-				<img class="media-object member-photo" src="{{ member.image }}">
-				</a>
-			 	<div class="media-body">
-				<div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
-				<p class="note">{{ member.position }}</p>
-				</div>
+	  <div class="media">
+		<a class="pull-left" href="{{ member.url }}">
+		  <img class="media-object member-photo" src="{{ member.image }}" alt="{{ member.title }}">
+		</a>
+		<div class="media-body">
+		  <div class="head media-heading member-name"><a href="{{ member.url }}" class="off">{{ member.title }}</a></div>
+		  <p class="note">{{ member.position }}</p>
 		</div>
-    </div>	  
+	  </div>
+	</div>
 	{% if colindex == 0 %} <!-- closing a row -->
 	</div><div class="bigspacer"></div>
 	{% endif %}
-{% endfor %}
-{% if colindex != 0 %} <!-- close last open row -->
-</div><div class="bigspacer"></div>
-{% endif %}
+  {% endfor %}
+  {% if colindex != 0 %} <!-- close last open row -->
+  </div><div class="bigspacer"></div>
+  {% endif %}
 
 <div class="bigspacer"></div>
 <hr/>
 
-<div class="row">
-	<div class="col-md-12">
-		<img class="team-photo" src="/assets/images/team/drummond-lab-202309.png"/>
+<style>
+	.team-photo {
+	  width: 100%; /* Set a fixed width or use a specific value */
+	  height: auto; /* Allow the height to adjust automatically */
+	  max-height: 200px; /* Set a maximum height if needed */
+	  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+	  object-position: center 38%; /* Adjust the object position (horizontal center, vertical bottom) */
+	}
+	.team-photo2 {
+	  width: 100%; /* Set a fixed width or use a specific value */
+	  height: auto; /* Allow the height to adjust automatically */
+	  max-height: 200px; /* Set a maximum height if needed */
+	  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+	  object-position: center 20%; /* Adjust the object position (horizontal center, vertical bottom) */
+	}
+  </style>
+  
+  <div class="row">
+	<div class="col-md-4">
+	  <img class="team-photo" src="/assets/images/team/belzunce-lab.jpeg" alt="Image 1"/>
 	</div>
-</div>
+	<div class="col-md-4">
+	  <img class="team-photo" src="/assets/images/team/belzunce-lab2.jpeg" alt="Image 2"/>
+	</div>
+	<div class="col-md-4">
+	  <img class="team-photo2" src="/assets/images/team/belzunce-lab3.jpg" alt="Image 3"/>
+	</div>
+  </div>
+  
+  
 
 <div class="bigspacer"></div>
 <hr/>
-<div class="bigtitle text-center">Alumni</div>
+<div class="bigtitle text-center">Previous Students</div>
 <div class="bigspacer"></div>
 
 {% assign alumni = site.categories.team | where: "alum","true"%}
