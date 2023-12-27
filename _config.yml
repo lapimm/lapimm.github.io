@@ -13,7 +13,7 @@ repository: lapimm/lapimm.github.io
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : LaPIMM
+title : LaPIM
 tagline: Laboratorio de Procesamiento de Imagenes Medicas
 institution:
   url: https://unsam.edu.ar/
