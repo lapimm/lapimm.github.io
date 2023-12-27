@@ -1,15 +1,15 @@
 ---
 layout: member
-title: "D. Allan Drummond"
-position: Principal investigator
+title: "Milagros Ledezma"
+position: Undergraduate Student
 nickname: Allan
-handle: dad
-email: dadrummond@uchicago.edu
-twitter: dallandrummond
+handle: mab
+email: mbelzunce@unsam.edu.ar
+#twitter: dallandrummond
 github: dad
 scholar: -YZ5mIIAAAAJ
-orcid: 0000-0001-7018-7059
-image: /assets/images/team/d-allan-drummond-2023.png
+orcid: 0000-0001-6085-484X
+image: /assets/images/team/milagros-ledezma.jpeg
 cv: /assets/pdfs/drummond-cv.pdf
 alum: false
 ---
