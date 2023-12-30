@@ -6,9 +6,9 @@ nickname:
 handle: 
 email: 
 #twitter: dallandrummond
-github: dad
-scholar: -YZ5mIIAAAAJ
-orcid: 0000-0001-6085-484X
+github: 
+scholar:
+orcid: 
 image: /assets/images/team/milagros-ledezma.jpeg
 cv: 
 alum: false

@@ -2,9 +2,9 @@
 layout: member
 title: "German Balerdi"
 position: Undergraduate Student
-nickname: Allan
-handle: mab
-email: mbelzunce@unsam.edu.ar
+nickname:
+handle: 
+email: 
 #twitter: dallandrummond
 github: GBalerdi
 scholar: 
