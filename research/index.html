@@ -1,0 +1,41 @@
+---
+layout: default
+title: "Research"
+description: "Research projects in the lab"
+group: navigation
+navorder: 2
+---
+{% include JB/setup %}
+{% for page in site.categories.misc %}
+  {% if page.research %}
+  	{% assign researchpage = page %}
+  {% endif %}
+{% endfor %}
+
+{% assign software = "" | split: "" %}
+{% assign collecting = "" | split: "" %}
+{% assign analyzing = "" | split: "" %}
+{% assign complete = "" | split: "" %}
+{% assign other = "" | split: "" %}
+{% assign temp = site.categories.projects | reverse %}
+{% for item in temp %}
+    {% if item.type == "software" %}
+        {% assign software = software | push: item %}
+    {% elsif item.status == "collection" %}
+        {% assign collecting = collecting | push: item %}
+    {% elsif item.status == "analysis" %}
+        {% assign analyzing = analyzing | push: item %}
+    {% elsif item.status == "complete" %}
+        {% assign complete = complete | push: item %}
+    {% else %}
+        {% assign other = other | push: item %}
+    {% endif %}
+{% endfor %}
+
+<div class="bigspacer"></div>
+<div class="bigtitle text-center">Our Research</div>
+<div class="smallspacer"></div>
+<hr/>
+
+{{ researchpage.content }}
+
