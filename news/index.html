@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "News"
-description: "The Drummond Lab blog"
-group: subnavigation
+description: "LaPIM News"
+group: navigation
 navorder: 6
 ---
 {% include JB/setup %}
@@ -54,7 +54,7 @@ navorder: 6
 		<div class="col-md-8">		
 			<div style="height:5px;"></div>			
 			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
+			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}" width="200"></a>
 			{% endif %}
 			<div class="post">
 				{{ post.content }}
