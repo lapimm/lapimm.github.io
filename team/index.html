@@ -3,19 +3,11 @@ layout: default
 title: "Team"
 description: "People in the lab"
 group: navigation
-navorder: 2
+navorder: 1
 ---
 {% include JB/setup %}
 
-<style>
-	.media-object.member-photo {
-	  width: 100%; /* Set a specific width */
-	  height: auto; /* Maintain aspect ratio */
-	  max-height: 150px; /* Set a maximum height if needed */
-	  border-radius: 50%; /* Optional: Add border-radius for rounded images */
-	  object-fit: cover; /* Optional: Maintain aspect ratio and cover the entire container */
-	}
-  </style>
+
   
   <div class="bigspacer"></div>
   {% assign current_team = site.categories.team | where: "alum", "false" %}
@@ -48,22 +40,7 @@ navorder: 2
 <div class="bigspacer"></div>
 <hr/>
 
-<style>
-	.team-photo {
-	  width: 100%; /* Set a fixed width or use a specific value */
-	  height: auto; /* Allow the height to adjust automatically */
-	  max-height: 200px; /* Set a maximum height if needed */
-	  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
-	  object-position: center 38%; /* Adjust the object position (horizontal center, vertical bottom) */
-	}
-	.team-photo2 {
-	  width: 100%; /* Set a fixed width or use a specific value */
-	  height: auto; /* Allow the height to adjust automatically */
-	  max-height: 200px; /* Set a maximum height if needed */
-	  object-fit: cover; /* Maintain aspect ratio and cover the entire container */
-	  object-position: center 20%; /* Adjust the object position (horizontal center, vertical bottom) */
-	}
-  </style>
+
   
   <div class="row">
 	<div class="col-md-4">

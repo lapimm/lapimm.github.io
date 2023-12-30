@@ -10,7 +10,7 @@ github: mabelzunce
 scholar: -YZ5mIIAAAAJ
 orcid: 0000-0001-6085-484X
 image: /assets/images/team/martin-belzunce.png
-cv: /assets/pdfs/drummond-cv.pdf
+cv: /assets/pdfs/Belzunce_cv_2023_08_04.pdf
 alum: false
 ---
 
