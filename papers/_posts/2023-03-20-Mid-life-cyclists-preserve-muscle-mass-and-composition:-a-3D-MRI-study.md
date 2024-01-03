@@ -14,8 +14,8 @@ redirect_from:
 fulltext: https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-023-06283-3
 pdflink: /assets/pdfs/Mid-life_cyclists_preserve_muscle_mass_and_composi.pdf
 github: 
-pmid: 37637483
-pmcid:  PMC1045006
+pmid: 36941610
+pmcid:  PMC10026522
 f1000: 
 doi: "10.1186/s12891-023-06283-3"
 dryad_doi: 
