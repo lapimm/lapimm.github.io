@@ -5,7 +5,7 @@ nickname: "Sol"
 authors: "Sol Cataldo" 
 year: "2023"
 conference: "CEMSC³ Annual Meeting"
-image: /assets/images/Presentación_Cataldo_Reunion_CEMSC3.jpg
+image: /assets/images/talks/Presentación_Cataldo_Reunion_CEMSC3.jpg
 projects: []
 tags: []
 

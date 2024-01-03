@@ -5,7 +5,7 @@ nickname: "Sol"
 authors: "Sol Cataldo"
 year: "2023"
 conference: "Congreso SABI 2023"
-image: /assets/images/Presentación_Cataldo_Automated_PET_quantification.pptx.jpg
+image: /assets/images/talks/Presentación_Cataldo_Automated_PET_quantification.pptx.jpg
 projects: []
 tags: []
 
