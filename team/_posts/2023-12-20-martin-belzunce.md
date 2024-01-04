@@ -8,6 +8,7 @@ email: mbelzunce@unsam.edu.ar
 #twitter: dallandrummond
 github: mabelzunce
 scholar: p1EfqNQAAAAJ
+science_names: [Belzunce MA, Martín Belzunce]
 orcid: 0000-0001-6085-484X
 image: /assets/images/team/martin-belzunce.png
 cv: /assets/pdfs/Belzunce_cv_2023_08_04.pdf

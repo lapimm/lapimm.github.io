@@ -7,6 +7,7 @@ handle: sac
 email: scataldo@estudiantes.unsam.edu.ar
 #twitter: dallandrummond
 github: suflorcita
+science_names: [Sol Cataldo]
 #linkedin: https://www.linkedin.com/in/sol-cataldo-3aa77720a/
 #scholar: -YZ5mIIAAAAJ
 #Sorcid: 0000-0001-6085-484X
