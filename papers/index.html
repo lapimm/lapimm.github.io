@@ -5,6 +5,7 @@ description: "Research papers from the lab"
 group: navigation
 navorder: 3
 ---
+
 {% include JB/setup %}
 
 <div class="bigspacer"></div> 
@@ -16,10 +17,18 @@ navorder: 3
   <div class="row">
   {% endif %}
 
+  <!--Image-->
+  {% if paper.image %}
+    {% assign image = paper.image %}
+  {% else %}
+    {% assign image = "/assets/images/placeholder.png" %}
+  {% endif %}
+
+
     <div class="col-md-4 paperbox">
       {% if paper.embargo %}
       <div class="media">
-          <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
+          <img width=100 class="media-object pull-right" src="{{ image}}"/>
           <div class="media-body">
             <div class="smallhead media-heading">
             {{ paper.title }}
@@ -30,7 +39,7 @@ navorder: 3
       {% elsif paper.preprint %}
       <div class="media">
         <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
+          <img width=100 class="media-object" src="{{ image }}">
         </a>
         <div class="media-body">
             <div class="smallhead media-heading">
@@ -42,13 +51,58 @@ navorder: 3
       {% else %}
       <div class="media">
         <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
+          <img width=100 class="media-object" src="{{ image }}">
         </a>
         <div class="media-body">
             <div class="smallhead media-heading">
             <a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
             </div>
-            <p class="note">{{ paper.shortref }}</p>
+
+            <p>
+              <div class="note">
+                <!-- This took a while, but it links the name of each author from the lab
+                to their page and keeps collaborators' names as strings -->
+                {% assign split_authors = paper.authors | split: ", " %}
+                {% for author in split_authors %}
+                    {% assign author_in_lab = false %}
+                    {% for member in site.categories.team %}
+                        {% for science_name in member.science_names %}
+                            {% if author == science_name %}
+                                {% assign author_in_lab = true %}
+                                <a class="off" href="{{ member.url }}">{{ science_name }}</a>,
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+                    {% for collab in site.data.collaborators %}
+                        {% if author == collab.science_name %}
+                            {% assign author_in_lab = true %}
+                            <a class="off" href="{{ collab.url }}">{{ collab.science_name }}</a>,
+                        {% endif %}
+                    {% endfor %}
+                    {% if author_in_lab == false %}
+                        {{ author }},
+                    {% endif %}
+                {% endfor %}
+                <span class="journal">
+                  {{ paper.journal }}
+                </span>
+                {% if product.volume %}
+                  {{ paper.volume }}
+                {% endif %}
+                {% if product.issue %}
+                  ({{ paper.issue }})
+                {% endif %}
+                {% if product.pages %}
+                  :{{ paper.pages }}
+                {% endif %}
+                ({{ paper.year }}).
+              </div>
+            </p>
+
+
+
+
+             <!--<div class="note">{{ paper.shortref }}</p> <-->
         </div>
       </div>
       {% endif %}

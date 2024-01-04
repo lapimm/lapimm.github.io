@@ -8,7 +8,7 @@ journal: "BMJ Open Sport & Exercise Medicine"
 volume: 
 issue: 
 pages: 
-authors: "Belzunce, M. A., Henckel, J., Di Laura, A., Horga, L. M., & Hart, A. J."
+authors: "Belzunce MA, Henckel J, Di Laura A, Horga LM, Hart, AJ"
 image: /assets/images/papers/ciclism.jpg
 redirect_from: 
 fulltext: https://bmjopensem.bmj.com/content/9/3/e001672

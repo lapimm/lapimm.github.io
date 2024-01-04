@@ -8,7 +8,7 @@ journal: "BMC Musculoskeletal Disorders "
 volume: 
 issue: 
 pages: 
-authors: "Belzunce, M. A., Henckel, J., Di Laura, A., Horga, L. M., & Hart, A. J."
+authors: "Belzunce MA, Henckel J, Di Laura A, Horga LM, Hart AJ"
 image: /assets/images/papers/mid-life.webp
 redirect_from: 
 fulltext: https://bmcmusculoskeletdisord.biomedcentral.com/articles/10.1186/s12891-023-06283-3
