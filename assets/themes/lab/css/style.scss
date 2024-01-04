@@ -415,3 +415,27 @@ max-height: 200px; /* Set a maximum height if needed */
 object-fit: cover; /* Maintain aspect ratio and cover the entire container */
 object-position: center 20%; /* Adjust the object position (horizontal center, vertical bottom) */
 }
+
+a.off {
+	color: inherit;
+	border-bottom: none;
+}
+
+.note {
+	font-size: $font-size-base;
+	font-weight: $font-weight-base;
+	line-height: ceil($font-size-base*1.2);
+
+	a {
+		color: black;
+		border-bottom: thin dotted;
+		&:hover {
+			text-decoration: none;
+			border-bottom: thin solid;
+		}
+	}
+
+	h1 {
+
+	}
+}
