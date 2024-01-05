@@ -2,7 +2,7 @@
 layout: talk
 title: "Estudio del Impacto Neurocognitivo del COVID Prolongado en los Habitantes de la Provincia de Buenos Aires"
 nickname: "mab"
-authors: "Martín Belzunce" 
+authors: "Florencia Sarmiento, Sol Cataldo, Dante R. Chialvo, Melina Cibeyra, Sabrina Defeo, Julián Furios, Silvina Horovitz, Laura Margulis, Analía Martino, Raúl Melano, Milagros Mena, Andrea Micciuli, Francisco Parisi, Diego Santoro, Patricia Vila, Claudia Viñuela Ortiz, Martín Belzunce" 
 year: "2023"
 conference: "1st UNSAM Scientific and Technologic Symposium"
 image: /assets/images/talks/Presentación_Belzunce_UNSAM.png

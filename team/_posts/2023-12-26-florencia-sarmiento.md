@@ -6,7 +6,8 @@ nickname:
 handle: FS
 email: 
 #twitter: dallandrummond
-github: FlorSarmientoUNSAM
+github: "FlorSarmientoUNSAM"
+science_names: [Florencia Sarmiento]
 scholar: 
 orcid: 
 image: /assets/images/team/florencia-sarmiento.jpg
