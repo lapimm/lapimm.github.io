@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Sol Cataldo"
-position: Undergraduate Student
+position: "Undergraduate Student - EVC-CIN Fellowship"
 nickname: Sol
 handle: sac
 email: scataldo@estudiantes.unsam.edu.ar

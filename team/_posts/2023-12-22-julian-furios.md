@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Julian Furios"
-position: PhD Student
+position: "PhD Student - CONICET Fellowship"
 nickname: 
 handle:
 email:
