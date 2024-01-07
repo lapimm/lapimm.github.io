@@ -10,12 +10,12 @@ theme: lab
 tags: []
 link: https://nu.unsam.edu.ar/2023/05/11/tuviste-covid-19-y-seguis-sufriendo-fatiga-perdida-de-memoria-y-o-problemas-de-concentracion-sumate-como-voluntarix-para-un-estudio-neurologico-de-la-unsam-y-el-hospital-eva-peron/
 media: UNSAM 
-image: /assets/images/media/radio_nacional.png
+image: /assets/images/media/nota_unsam.png
 ---
 {% include JB/setup %}
 
 
-Article in [UNSAM] (https://nu.unsam.edu.ar/2023/05/11/tuviste-covid-19-y-seguis-sufriendo-fatiga-perdida-de-memoria-y-o-problemas-de-concentracion-sumate-como-voluntarix-para-un-estudio-neurologico-de-la-unsam-y-el-hospital-eva-peron/) webpage 
+Article in (UNSAM) [https://nu.unsam.edu.ar/2023/05/11/tuviste-covid-19-y-seguis-sufriendo-fatiga-perdida-de-memoria-y-o-problemas-de-concentracion-sumate-como-voluntarix-para-un-estudio-neurologico-de-la-unsam-y-el-hospital-eva-peron/] webpage 
 
 
 
