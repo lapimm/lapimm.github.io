@@ -13,5 +13,5 @@ media: UNSAM
 image: /assets/images/media/nota_quepasa_web.png
 ---
 
-Article in [Que Pasa] (https://www.quepasaweb.com.ar/san-martin-convocan-voluntarios-para-una-investigacion-que-estudia-los-efectos-neurologicos-post-covid/)Newspaper
+Article in [Que Pasa](https://www.quepasaweb.com.ar/san-martin-convocan-voluntarios-para-una-investigacion-que-estudia-los-efectos-neurologicos-post-covid/)Newspaper
 

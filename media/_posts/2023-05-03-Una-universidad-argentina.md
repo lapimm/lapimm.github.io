@@ -10,7 +10,7 @@ theme: lab
 tags: []
 link: https://www.clarin.com/zonales/universidad-san-martin-junto-hospital-eva-peron-convocan-voluntarios-investigar-efectos-neurologicos-post-covid-distrito_0_HJVTgozHJK.html
 media: UNSAM 
-image: /assets/images/media/nota_unsam.png
+image: /assets/images/media/clarin_zonal.png
 ---
 
 

@@ -13,5 +13,5 @@ media: UNSAM
 image: /assets/images/media/radio_nacional.png
 ---
 
-[Radio Nacional AM870] (https://ar.radiocut.fm/audiocut/entrevista-proyecto-covid-prolongado/)
+[Radio Nacional AM870](https://ar.radiocut.fm/audiocut/entrevista-proyecto-covid-prolongado/)
 
