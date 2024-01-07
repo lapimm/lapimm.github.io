@@ -15,7 +15,7 @@ fulltext: https://bmjopensem.bmj.com/content/9/3/e001672
 pdflink: /assets/pdfs/Gender_similarities_and_differences_in_skeletal_mu.pdf
 github: 
 pmid: 37637483
-pmcid:  PMC1045006
+pmcid:
 f1000: 
 doi: "10.1136/bmjsem-2023-001672"
 dryad_doi: 

@@ -4,7 +4,7 @@ title: "Automated PET quantification of [18F]FDG PET Images for neurodegenerativ
 nickname: "Sol"
 authors: "Sol Cataldo"
 year: "2023"
-conference: "Congreso SABI 2023"
+conference: "SABI Conference 2023"
 image: /assets/images/talks/Presentación_Cataldo_Automated_PET_quantification.pptx.jpg
 projects: []
 tags: []
