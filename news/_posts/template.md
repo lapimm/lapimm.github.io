@@ -1,8 +1,8 @@
 ---
 layout: news
-title: "German Balerdi defends his final project"
+title: 
 author: 
-author_handle: 
+author_handle: dad
 image: /assets/images/news/german-balerdi-project.jpeg
 category: news
 tags: [biomedical engineer, team, student]
