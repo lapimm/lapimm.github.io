@@ -2,10 +2,10 @@
 layout: news
 title: 
 author: 
-author_handle: dad
-image: /assets/images/news/german-balerdi-project.jpeg
+author_handle: mab
+image: 
 category: news
-tags: [biomedical engineer, team, student]
+tags:
 ---
 [German Balerdi] successfully defended his final project in biomedical engineering! Congratulations, German! 
 

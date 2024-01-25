@@ -1,13 +1,10 @@
 ---
 layout: news
-title: 
+title: "Our project receives an IBRO grant"
 author: 
 author_handle: dad
-image: /assets/images/news/german-balerdi-project.jpeg
+image: /assets/images/news/ibro.png
 category: news
-tags: [biomedical engineer, team, student]
+tags: [IBRO, grant]
 ---
-[German Balerdi] successfully defended his final project in biomedical engineering! Congratulations, German! 
-
-
-[German Balerdi]: /team/german-balerdi
+The project, 'Saliva and brain imaging biomarkers for long-COVID effects on mental health,' designed in collaboration with Marcela Brocco, has been awarded an ["IBRO-Wellcome Neuroscience Capacity Accelerator for Mental Health"](https://ibro.org/) Grant.
