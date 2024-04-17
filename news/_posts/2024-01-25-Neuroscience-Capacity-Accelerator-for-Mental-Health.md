@@ -1,12 +1,10 @@
 ---
 layout: news
-title: "Call for Applications: Doctoral Fellowships, CEUNIM - UNSAM"
+title: "Our project receives an IBRO grant"
 author: 
 author_handle: dad
-image: /assets/images/news/doctoral_1.jpeg
+image: /assets/images/news/ibro.png
 category: news
-tags:  [CEUNIM, UNSAM]
+tags: [IBRO, grant]
 ---
-We are currently seeking doctoral fellows to join the laboratory. If you are interested in applying, please get in touch. 
-
-
+The project, 'Saliva and brain imaging biomarkers for long-COVID effects on mental health,' designed in collaboration with Marcela Brocco, has been awarded an ["IBRO-Wellcome Neuroscience Capacity Accelerator for Mental Health"](https://ibro.org/) Grant.
