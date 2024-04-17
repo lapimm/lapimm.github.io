@@ -9,5 +9,4 @@ tags:  [CEUNIM, UNSAM]
 ---
 We are currently seeking doctoral fellows to join the laboratory. If you are interested in applying, please get in touch. 
 
-
-![Texto alternativo](/assets/images/news/doctoral_1.jpeg)
+<img src="/assets/images/news/doctoral_1.jpeg" alt="Doctoral Fellowships" width="300">
