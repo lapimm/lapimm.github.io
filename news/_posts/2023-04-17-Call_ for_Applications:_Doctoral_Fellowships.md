@@ -3,7 +3,7 @@ layout: news
 title: "Call for Applications: Doctoral Fellowships, CEUNIM - UNSAM"
 author: 
 author_handle: dad
-image: /assets/images/news/doctoral_1.jpeg
+image: 
 category: news
 tags:  [CEUNIM, UNSAM]
 ---
