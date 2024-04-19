@@ -6,7 +6,7 @@ nickname: "German"
 authors: "German Balerdi" 
 year: "2023"
 conference: "Proyecto Final Ingenieria Biomédica"
-image: /assets/images/talks/pfi_german.jpg
+image: /assets/images/talks/pfi_german.png
 projects: []
 tags: []
 
