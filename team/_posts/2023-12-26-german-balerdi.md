@@ -2,7 +2,7 @@
 layout: member
 title: "German Balerdi"
 position: Undergraduate Student
-nickname:
+nickname: German
 handle: 
 email: 
 #twitter: dallandrummond
