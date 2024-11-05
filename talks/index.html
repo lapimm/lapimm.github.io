@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Talks"
+title: "Talks and Posters"
 description: "Presentations by members of the lab"
 group: navigation
 navorder: 4
@@ -8,11 +8,11 @@ navorder: 4
 {% include JB/setup %}	
 
 <div class="bigspacer"></div>
-<div class="bigtitle text-center">Talks</div>
+<div class="bigtitle text-center">Talks and Posters</div>
 <div class="smallspacer"></div>
 <hr/>
 
-<!--List of years-->
+<!--List of years for Talks-->
 {% assign years = "" | split: "" %}
 {% for product in site.categories.talks %}
   {% assign years = years | push: product.year %}
@@ -30,7 +30,7 @@ navorder: 4
 		{% endif %}
 	{% endfor %}
 
-	<!--Grid-->
+	<!--Grid for Talks-->
 	<div class="container">
 	<div class="row">
 		{% for product in year_products %}
@@ -94,5 +94,3 @@ navorder: 4
 		<hr/>
 	{% endif %}
 {% endfor %}
-
-

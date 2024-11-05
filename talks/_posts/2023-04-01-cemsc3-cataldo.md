@@ -13,8 +13,8 @@ tags: []
 slides: https://drive.google.com/file/d/1tT_h7Fnz5DVPeivYhae-7ATKjhsQMNZN/view?usp=sharing
 video:
 
-# Links
 doi:
+# Links
 
 # Data and code
 github: []
@@ -25,6 +25,11 @@ figshare_names:
 osf:
 f1000:
 ---
+
+# Presentation Type
+type: "poster"  # Indica que es un póster
+---
+
 {% include JB/setup %}
 
 Sol gave this 15 minutes talk at the CEMSC³ Annual Meeting in Apirl, 2023.

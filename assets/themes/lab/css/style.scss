@@ -440,3 +440,22 @@ a.off {
 	}
 }
 
+.glyphbox.note {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+  }
+  
+  .glyphbox.note .pad-left.note {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+  }
+  
+  .pad-left.note a.off {
+	margin: 5px 0; /* Espaciado entre enlaces */
+	text-align: center;
+  }
+  
