@@ -3,7 +3,7 @@ layout: talk
 title: "Exploring Hypoperfusion Patterns In Long COVID-19 Patients Using Arterial Spin Labeling"
 nickname: "mab"
 authors: "Sol Cataldo, Martín Belzunce"
-year: "2024"
+year: "2025"
 conference: "AAIC Neuroscience Next - Buenos Aires Hub"
 image: /assets/images/talks/CATALDO_27_2_F15.png
 projects: []
