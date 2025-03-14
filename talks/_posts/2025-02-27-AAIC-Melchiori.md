@@ -1,11 +1,11 @@
 ---
 layout: talk
-title: "Cognitive Impact and Brain Structural changes in Long COVID patients: a cross-sectional MRI study two years post infection"
-nickname: "mab"
+title: "Altered Functional Connectivity in Alzheimer’s Disease: A Resting-State fMRI Study Using Independent Component Analysis"
+nickname: "Delfi, mab"
 authors: "Delfina Melchiori, Martín Belzunce"
-year: "2024"
-conference: "SAN 2024 XXXIX Annual Meeting"
-image: /assets/images/talks/poster_san.png
+year: "2025"
+conference: "AAIC Neuroscience Next - Buenos Aires Hub"
+image: /assets/images/talks/MELCHIORI_26_2_F3.jpg
 projects: []
 tags: []
 
