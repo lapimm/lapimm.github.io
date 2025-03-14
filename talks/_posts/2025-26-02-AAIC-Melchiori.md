@@ -1,8 +1,8 @@
 ---
 layout: talk
 title: "Cognitive Impact and Brain Structural changes in Long COVID patients: a cross-sectional MRI study two years post infection"
-nickname: "Sol"
-authors: "Sol Cataldo, Laura Margulis, Florencia  Sarmiento, Melina Cibeyra,  Milagros Mena, Raúl Melano, Andrea Micciulli, Martín Belzunce"
+nickname: "mab"
+authors: "Delfina Melchiori, Martín Belzunce"
 year: "2024"
 conference: "SAN 2024 XXXIX Annual Meeting"
 image: /assets/images/talks/poster_san.png
