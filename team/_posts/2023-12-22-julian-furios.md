@@ -12,7 +12,7 @@ scholar:
 orcid: 
 image: /assets/images/team/default-member.png
 cv: 
-alum: false
+alum: true 
 ---
-I'm a Bioengineer graduated from the [Universidad Nacional of Entre Rios (UNER)](https://www.uner.edu.ar/). In the 2023, I started a PhD under the direction of Dr Martin Belzunce with a CONICET fellowship. My research topic focuses on the study of the degree of brain functional disconnection in neurodegenerative diseases based on correlation length
+Graduated in Bioengineering from the [Universidad Nacional of Entre Rios (UNER)](https://www.uner.edu.ar/). From 2023 to 2024, pursued a PhD under the supervision of Dr. Martín Belzunce with a CONICET fellowship. Research focused on studying the degree of brain functional disconnection in neurodegenerative diseases based on correlation length.
 

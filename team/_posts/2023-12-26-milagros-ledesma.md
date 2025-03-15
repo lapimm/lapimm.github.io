@@ -4,7 +4,7 @@ title: "Milagros Ledesma"
 position: Undergraduate Student
 nickname: 
 handle: 
-email: 
+email: mnledesma@estudiantes.unsam.edu.ar
 #twitter: dallandrummond
 github: 
 scholar:
@@ -13,4 +13,5 @@ image: /assets/images/team/milagros-ledezma.jpeg
 cv: 
 alum: false
 ---
-I'm an advanced student of the Bachelor's Degree in Biomedical Engineering at the Universidad Nacional de San Martín, currently working in my final project. 
+Advanced student of the Bachelor's Degree in Biomedical Engineering at the Universidad Nacional de San Martín. Held a PEFI (Plan Estratégico de Formación de Ingenieros) fellowship in 2022 at the Centro Universitario de Imágenes Médicas (CEUNIM) of the university, working with Martín Belzunce. The project focused on denoising low-dose PET images using a convolutional neural network. Currently working on her final project.
+

@@ -1,7 +1,6 @@
 ---
 layout: talk
-title: "Desarrollo de una herramienta basada en algoritmos profundo para de aprendizaje la evaluación automática de la musculatura de la
-zona lumbar a partir de imágenes de resonancia magnética"
+title: "Desarrollo de una herramienta basada en algoritmos profundo para de aprendizaje la evaluación automática de la musculatura de la zona lumbar a partir de imágenes de resonancia magnética"
 nickname: "German"
 authors: "German Balerdi" 
 year: "2023"

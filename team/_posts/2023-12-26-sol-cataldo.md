@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Sol Cataldo"
-position: "Undergraduate Student - EVC-CIN Fellowship"
+position: "Undergraduate Student - Research Assistant"
 nickname: Sol
 handle: sac
 email: scataldo@estudiantes.unsam.edu.ar
@@ -15,4 +15,4 @@ image: /assets/images/team/sol-cataldo.jpg
 alum: false 
 ---
 
-I'm an advanced student of the Bachelor's Degree in Biomedical Engineering at the Universidad Nacional de San Martin. I’m currently working with Martin Belzunce on an EVC-CIN fellowshio at the Centro Universitario de Imagenes Médicas (CEUNIM), a medical facility affiliated with my university. My project involves developing a predictor for the neurocognitive impact of long COVID. Additionally I’m  working with PET and MRI imaging and I’m developing an open pipeline for 18F FDG PET quantification
+Advanced student of the Bachelor's Degree in Biomedical Engineering at the Universidad Nacional de San Martín. Held a PEFI (Plan Estratégico de Formación de Ingenieros) scholarship and an EVC-CIN fellowship in 2023 and 2024 at the Centro Universitario de Imágenes Médicas (CEUNIM) of the university, working with Martín Belzunce. Since 2024, serves as a research assistant. The project involved developing a predictor for the neurocognitive impact of Long COVID. Additionally, worked with PET and MRI imaging and developed an open pipeline for 18F-FDG PET quantification.
