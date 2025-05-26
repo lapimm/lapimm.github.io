@@ -10,7 +10,7 @@ projects: []
 tags: []
 
 # Content
-slides: hhttps://drive.google.com/file/d/1PLGHwkIhkEIWpRfvxha7KPsBNiX1ke9V/view?usp=sharing
+slides: https://drive.google.com/file/d/1PLGHwkIhkEIWpRfvxha7KPsBNiX1ke9V/view?usp=sharing
 video:
 
 # Links
