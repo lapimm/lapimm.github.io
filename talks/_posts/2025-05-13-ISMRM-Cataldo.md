@@ -4,7 +4,7 @@ title: "Cerebral Hypoperfusion And Vascular Impairment In Long COVID Patients Wi
 nickname: "mab"
 authors: "Sol Cataldo, Martín Belzunce"
 year: "2025"
-conference: "Khipu 2025"
+conference: "ISMRM 2025"
 image: /assets/images/talks/Cataldo_ISMRM.jpg
 projects: []
 tags: []
