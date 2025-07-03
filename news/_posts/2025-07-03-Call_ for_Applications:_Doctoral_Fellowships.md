@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Sol Cataldo and Martín Belzunce present at ISMRM 2025"
+title: "Call for Applications: Doctoral Fellowships, CEUNIM - UNSAM"
 author: 
 author_handle: 
 image: /assets/images/news/BúsquedaPostulantesBecaConicet2025.png
