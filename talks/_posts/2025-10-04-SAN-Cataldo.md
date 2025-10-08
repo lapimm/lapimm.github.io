@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Beyond Latent Representations: Variational Autoencoders and Saliency Maps for Alzheimer’s Disease Classification"
+title: "Elevated spatial coefficient of variation in Arterial Spin Labelling MRI reveals global vascular dysfunction in Long COVID patients two years post-infection"
 nickname: "mab"
 authors: "Sol Cataldo, Silvina Horovitz, Laura Margulis, Andrea Micciuli, Florencia Sarmiento, Melisa Monteleone, Marcela Brocco, Martín Belzunce"
 year: "2025"

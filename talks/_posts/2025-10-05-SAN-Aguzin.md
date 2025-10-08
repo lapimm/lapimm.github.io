@@ -5,7 +5,7 @@ nickname: "mab"
 authors: "Lautaro Aguzin, Martín Belzunce"
 year: "2025"
 conference: "SAN 2025"
-image: /assets/images/talks/KHIPU_final_page-0001.jpg
+image: /assets/images/talks/PosterSAN2025Aguzin.jpg
 projects: []
 tags: []
 

@@ -1,16 +1,16 @@
 ---
 layout: talk
-title: "Beyond Latent Representations: Variational Autoencoders and Saliency Maps for Alzheimer’s Disease Classification"
+title: "Altered functional connectivity across ALzheimer's disease and mild cognitive impairment: a resting-state fMRI using independent component analysis"
 nickname: "mab"
-authors: "Santiago V. Blas Laguzza, Hugo Aimar, Diego M. Mateos, Martín Belzunce"
+authors: "Delfina Melchiori, Martín Belzunce"
 year: "2025"
-conference: "Khipu 2025"
-image: /assets/images/talks/KHIPU_final_page-0001.jpg
+conference: "SAN 2025"
+image: /assets/images/talks/PosterSAN2025Melchiori.jpg
 projects: []
 tags: []
 
 # Content
-slides: https://drive.google.com/file/d/1snOrn0EvdgFREzKlnqeiijxqjk4zPE8u/view?usp=sharing
+slides: https://drive.google.com/file/d/1g0iMQBPq6fvJORIDKknnNYpvXRrnIXSi/view?usp=drive_link 
 video:
 
 # Links
